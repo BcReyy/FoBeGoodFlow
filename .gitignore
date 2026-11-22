@@ -1,0 +1,20 @@
+﻿# Dependencies and generated output
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Local credentials and machine-specific config
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Temporary and backup files
+*.log
+*.backup
+*.bak
+frontend/inventory-backup-*/
+.DS_Store
+Thumbs.db
