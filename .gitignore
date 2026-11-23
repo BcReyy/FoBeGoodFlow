@@ -18,3 +18,4 @@ coverage/
 frontend/inventory-backup-*/
 .DS_Store
 Thumbs.db
+docs/
