@@ -19,3 +19,10 @@ frontend/inventory-backup-*/
 .DS_Store
 Thumbs.db
 docs/
+.postman/
+*.backup*
+*.sql
+*.zip
+postman/collections/
+postman/environments/
+postman/globals/
